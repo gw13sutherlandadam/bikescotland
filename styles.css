@@ -1,0 +1,38 @@
+body{
+    background-color:cadetblue;
+    text-align: center;
+    color: white;
+    
+}
+
+.bgdark{
+    background-color: darkcyan;    
+}
+
+a{
+    color: antiquewhite;
+    font-size: 30px;
+     
+        
+}
+
+a:hover{
+    color: hotpink; 
+    font-family: "fantasy";
+        
+}
+h2{
+    font-family: "Edu QLD Hand";
+}
+
+h1{
+    font-family: "Edu QLD Hand";
+}
+.left{
+    text-align: left;
+    
+}
+.right{
+    text-align: right;
+    
+}
